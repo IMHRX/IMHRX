@@ -1,6 +1,14 @@
-# 💫 About Me:
-# Hi there 👋, I'm Harsh Rajak<br><br>🎓 Computer Science & Engineering Graduate (2025)<br>💻 Passionate about Software Development, Java, and Web Development<br>🚀 Skilled in Java, JavaScript, React.js, SQL, MySQL, MongoDB, HTML, CSS, and Git<br>🌟 Built projects like an E-commerce Website and a Crypto Price Tracker<br>📈 Always learning and exploring new technologies
+# Hi, I'm Harsh 👋
 
+💻 Aspiring Software Engineer  
+☕ Java | DSA | Web Development  
+📚 Currently learning Data Structures & Algorithms  
+🚀 Building projects and improving problem-solving skills  
+🎯 Goal: Secure a Software Developer role in a top IT company
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@example.com
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/IMHRX) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Rajak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshrajak2421@gmail.com) 
