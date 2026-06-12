@@ -6,9 +6,6 @@
 🚀 Building projects and improving problem-solving skills  
 🎯 Goal: Secure a Software Developer role in a top IT company
 
-## Connect with me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/IMHRX) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Rajak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshrajak2421@gmail.com) 
